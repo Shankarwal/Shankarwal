@@ -1,5 +1,5 @@
 - 👋 Welcome to my GitHub profile 
-- 👀 I am an experienced React developer who is keen to learn new thing everyday.
+- 👀 I am an experienced MERN stcak developer who is keen to learn new thing everyday.
 - 🌱 I have been continuously trying to improve to myself through out my journey 
 - 💞️ I know one thing team work makes dream work.
 <!---
